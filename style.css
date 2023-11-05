@@ -1,0 +1,26 @@
+.container-fluid{
+    background-color:#333;
+    height: 70px;
+}
+.logo-img{
+    height: 70px;
+    width: 170px
+}
+.sbox{
+    width:50%;
+    height: 60px;
+}
+.adv-hgt{
+    height: 500%;
+}
+.img{
+    object-fit: fill;
+    max-width: 100%;
+}
+.img1{
+    width:30%;
+    height: 50%;
+}
+.font-size{
+    font-size: 14px;
+}
